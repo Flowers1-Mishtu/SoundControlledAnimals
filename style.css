@@ -1,0 +1,43 @@
+body
+{
+    font-family: 'Julee', cursive; 
+    background-color: lightskyblue;
+}
+.header_div
+{
+    background-color: lightcoral;
+    color:mistyrose;
+}
+.header_div p
+{
+    font-family: 'Zeyada', cursive;
+    font-weight: bolder;
+    letter-spacing:2px;
+    font-size: larger;
+}
+.main_div{
+    color: blueviolet;
+    font-family: 'Quicksand', sans-serif;
+    font-weight: bolder;   
+    font-size:20;
+}
+
+.images
+{
+    
+}
+.copy_right_footer
+{
+    position:Fixed;
+    color:purple;
+    bottom:0;
+    width:100%;
+    font-size:18px;
+    background-color:lavenderblush;
+    line-height:3;
+    text-align: center;
+    text-shadow: 5px 5px 5px rgb(151, 149, 149);
+}
+
+   
+   
